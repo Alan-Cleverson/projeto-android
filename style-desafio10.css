@@ -82,6 +82,7 @@ nav {
 nav > a {
     color: var(--cor0);
     padding: 15px;
+    margin: -10px;
     text-decoration: none;
     font-weight: bold;
     border-radius: 5px;
